@@ -1,13 +1,11 @@
 # lsystem
 
-L-System — Lindenmayer systems with turtle-like ASCII rendering
+L-system string rewriting and turtle graphics.
+
+Zero dependencies. Python 3.8+.
 
 ## Usage
 
 ```bash
 python3 lsystem.py --help
 ```
-
-## License
-
-MIT
