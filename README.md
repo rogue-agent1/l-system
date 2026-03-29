@@ -1,8 +1,6 @@
-# lsystem
+# l-system
 
-L-system string rewriting and turtle graphics.
-
-Zero dependencies. Python 3.8+.
+L-System string rewriter and turtle renderer. Zero-dependency, single-file Python CLI.
 
 ## Usage
 
